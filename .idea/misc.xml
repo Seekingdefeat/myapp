@@ -9,6 +9,8 @@
         <entry key="..\:/KotlinProject/myapp/app/src/main/res/drawable/shape_login_form.xml" value="0.168" />
         <entry key="..\:/KotlinProject/myapp/app/src/main/res/drawable/shape_register_btn.xml" value="0.168" />
         <entry key="..\:/KotlinProject/myapp/app/src/main/res/drawable/shape_search_box.xml" value="0.168" />
+        <entry key="..\:/KotlinProject/myapp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/KotlinProject/myapp/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
         <entry key="..\:/KotlinProject/myapp/app/src/main/res/layout/login_layout.xml" value="0.2047008547008547" />
       </map>
     </option>
