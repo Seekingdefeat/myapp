@@ -41,6 +41,7 @@
                     android:src="@drawable/account" />
 
                 <EditText
+                    android:id="@+id/et_register_username"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dp"
@@ -73,6 +74,7 @@
                     android:src="@drawable/pwd"/>
 
                 <EditText
+                    android:id="@+id/et_register_pwd"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="20dp"
@@ -87,6 +89,7 @@
         </LinearLayout>
 
         <Button
+            android:id="@+id/btn_register_detail"
             android:layout_marginLeft="18dp"
             android:layout_marginRight="18dp"
             android:layout_marginTop="67dp"
